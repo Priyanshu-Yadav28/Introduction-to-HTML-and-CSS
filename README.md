@@ -1,2 +1,4 @@
 # WebD
-Web Develpment Repository to keep a photograph of each feature that I am Learning. 
+In this Repository I have created a Personal Site of mine which includes my profile euducation and work experiences of mine. 
+Begineer to Intermediate level HTML and CSS is used.
+With this I am also learnig about basic git and github commands and how to clone, push and commnit changes on github. 
