@@ -1,4 +1,3 @@
 # WebD
-In this Repository I have created a Personal Site of mine which includes my profile euducation and work experiences of mine. 
-Begineer to Intermediate level HTML and CSS is used.
-With this I am also learnig about basic git and github commands and how to clone, push and commit changes on github. 
+Starting Web Development by learning basic level HTMl and CSS and applying them to get some hands on practise.  
+In this Repository a webpage is createded some of the topics of html and css that were used to create this webpage were heading tag paragraph tag htms forms, html tables, html lists, etc. Some basic level css was also applied to style the webpage. 
